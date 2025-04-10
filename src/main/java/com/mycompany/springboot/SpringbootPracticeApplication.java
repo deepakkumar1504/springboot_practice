@@ -1,4 +1,4 @@
-package com.mycompany.springboot_practice;
+package com.mycompany.springboot;
 
 import javax.sql.DataSource;
 
